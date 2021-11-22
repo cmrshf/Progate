@@ -1,2 +1,2 @@
-# Cetak 'Hello World'
+#Cetak 'Hello World'
 print('Hello World')
